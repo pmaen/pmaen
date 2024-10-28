@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Paul Mennig (He/Him)<br>📚 Molecular Medicine Student (Frankfurt, Germany)<br>🥼 B. Sc. Biochemistry<br>🦠Committed to fight antimicrobial resistance<br>👨‍💻 Interested in Bioinformatics<br>⌨️ Self-taught<br>💻 Ubuntu, Windows<br><br>
+🙋‍♂️ Paul Mennig (He/Him)<br>📚 Molecular Medicine Student (Frankfurt, Germany)<br>🦠 Committed to fight antimicrobial resistance<br>🥼 B. Sc. Biochemistry<br>👨‍💻 Interested in Bioinformatics<br>⌨️ Self-taught<br>💻 Ubuntu, Windows<br><br>
 
 
 ## 🌐 Socials:
